@@ -44,21 +44,21 @@ url = ""
 #icon = "gitlab"
 #url = "https://gitlab.com/athul/"
 [[menu.main]]
-name = "Home"
+name = "主页"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
+name = "文章"
 url = "/post"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "关于"
 url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
+name = "标签"
 url = "/tags"
 weight = 4

@@ -68,7 +68,7 @@ tags:
 
 从[Finbold](https://finbold.com/consumers-spent-40-billion-on-app-store-in-h1-2021/)的数据来看，2021上半年用户在App Store上的消费有415 亿美元，几乎是 Google Play的两倍，同比也有22.50%的增长。这些消费一方面给苹果带来巨大收入，另一方面也更稳固了苹果生态，买的app越多，越不会从苹果迁移到其他生态。
 
-![Untitled](https://nathanhuang.s3.ap-southeast-1.amazonaws.com/Capture.PNG)
+![Untitled](https://dgbp4uvz49ycd.cloudfront.net/Capture.PNG)
 
 从最近的**iOS 15**来看，苹果还在笔记、音频、照片等，这些基础设施领域不断巩固自己的生态系统。平时我为了照顾Windows能同步内容，用的是第三方的笔记和照片存储。但**iOS15**之后，系统自带的免费app已经快追上这些第三方app，而且API权限更高。相比较之下，谷歌对自己产品的维护就没那么上心，微软虽然对产品上心但是生态上的进取心却没那么大。如果苹果能继续完善这些基础设施app，苹果的护城河将更加稳固。还有一点是苹果公司的***稳定性***，我曾经喜欢折腾第三方笔记app，有些是可以提高些许生产力，但也有些没过几年就倒闭了，把笔记里的数据迁移出来又是一轮折腾。即使当年的明星独角兽🦄️Evernote、Dropbox，现在也发展得并不理想。
 

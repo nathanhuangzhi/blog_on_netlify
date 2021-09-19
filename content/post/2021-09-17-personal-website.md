@@ -128,6 +128,17 @@ dns4.p07.nsone.net
 
 回到Netlify，选择enable HTTPS。
 
+
+## Google收录
+
+进入[Google Search Console](https://search.google.com/search-console/welcome)，
+
+![untitled.PNG](https://dgbp4uvz49ycd.cloudfront.net/Capture123123123123.PNG)
+
+
+输入Domain (nathanhuang.xyz)点击CONTINUE，复制TXT部分内容，回到Netlify，点击`Domain Settings -> Options -> Go to DNS Panel -> Add New Record`，Record Type选择TXT，Value部分粘贴刚才复制的内容，保存设置，回到Google Search Console点击Verify，成功后主页就可以被Google搜索到。  
+
+
 ## 附录
 
 自定义主题教程：(https://hugo-apero-docs.netlify.app/learn/)
