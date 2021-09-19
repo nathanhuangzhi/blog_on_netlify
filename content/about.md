@@ -14,4 +14,6 @@ Welcome! I am a Ph.D. candidate in Marketing. I'm broadly interested in digital 
 During my spare time, I enjoy writing, reading, playing piano and video games. 
 
 
+You can reach me via email: nathanhz2013 [at] gmail.com.
+
 
