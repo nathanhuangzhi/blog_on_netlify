@@ -25,6 +25,9 @@ icon_pack = "fa"
 url = "/index.xml"
 
 
+# icon can be found https://www.fontawesomecheatsheet.com/
+
+
 #[[params.social]]
 #name = "Twitter"
 #icon = "twitter"
@@ -40,7 +43,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Posts"
 url = "/post"
 weight = 2
 
