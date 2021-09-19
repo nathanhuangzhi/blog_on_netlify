@@ -50,7 +50,7 @@ blogdown
 
 打开RStudio：`File -> New Project -> New Directory -> Website using blogdown`，主题写**athul/archie**,
 
-![blogtest.PNG](https:/dgbp4uvz49ycd.cloudfront.net/blogtest.PNG)
+![blogtest.PNG](https://dgbp4uvz49ycd.cloudfront.net/blogtest.PNG)
 
 
 完成后在`Console`运行：
