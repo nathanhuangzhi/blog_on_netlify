@@ -10,7 +10,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "🏓 Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "欢迎！我是Nathan Huang，营销学博士在读，这里主要记录我对投资，写作，数据，营销的想法。"
 
 [[params.social]]
 name = "GitHub"
