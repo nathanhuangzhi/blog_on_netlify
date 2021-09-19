@@ -3,7 +3,7 @@ title: 搭建个人主页(Blogdown+Netlify+Github+AWS)
 author: Nathan Huang
 date: '2021-09-17'
 slug: personal-website
-description: 教程来自统计之都，步骤稍作修改。
+description: 一直想搭建一个自己的个人主页，David Perell 说过创作者需要 Own your distribution，不然只是在给各个平台的导流。之前折腾了好几次主页，但都不是很满意。这次试着记录下自己的步骤，以免日后忘记。
 categories: 
   - R
 tags:
@@ -13,8 +13,9 @@ draft: no
 
 # 搭建流程
 
+一直想搭建一个自己的个人主页，David Perell 说过创作者需要 Own your distribution，不然只是在给各个平台的导流。
 
-教程来自 [统计之都](https://cosx.org/2018/01/build-blog-with-blogdown-hugo-netlify-github/ "统计之都")，步骤稍作修改。
+之前折腾了好几次主页，但都不是很满意。这次试着记录下自己的步骤，以免日后忘记。搭建的主要过程参考了 [统计之都](https://cosx.org/2018/01/build-blog-with-blogdown-hugo-netlify-github/ "统计之都")，步骤稍作修改。
 
 初始设置先在RStudio中的进行如下设置：
 
