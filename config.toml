@@ -1,4 +1,4 @@
-baseURL = "quizzical-tesla-8af049.netlify.app"
+baseURL = "https://quizzical-tesla-8af049.netlify.app"
 languageCode = "en-us"
 title = "Nathan Huang"
 theme = "archie"
