@@ -70,6 +70,22 @@ blogdown::serve_site()
 > Filename处会自动帮你填写为Title处的内容，Filename和Slug还是建议使用字母，尤其是Filename，如果博文里面不需要用到 R 语言的代码计算结果生成图表的话，Format处就选择Markdown格式，这可以省去一些系统生成的步骤，ok，点击Done，就会在/content/post文件夹下面生成一个新文件了，content 文件夹下面的文件就是博客的文章了。---------[统计之都](https://cosx.org/2018/01/build-blog-with-blogdown-hugo-netlify-github/ "统计之都")
 
 
+完成后通过以下步骤，讲本地项目同步到Github。
+```
+cd <本地项目目录>
+git init
+git add .
+git commit -m "first comment"
+git remote add origin https://github.com/<github帐号>/<仓库名称>
+git remote -v
+git pull origin master --allow-unrelated-histories
+git push -u origin master
+```
+
+
+
+
+
 
 ## 通过Amazon AWS S3部署图床
 
