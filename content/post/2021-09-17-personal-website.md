@@ -131,12 +131,15 @@ dns4.p07.nsone.net
 
 ## Google收录
 
-进入[Google Search Console](https://search.google.com/search-console/welcome)，
+进入[Google Search Console](https://search.google.com/search-console/)，
 
 ![untitled.PNG](https://dgbp4uvz49ycd.cloudfront.net/Capture123123123123.PNG)
 
 
 输入Domain (nathanhuang.xyz)点击CONTINUE，复制TXT部分内容，回到Netlify，点击`Domain Settings -> Options -> Go to DNS Panel -> Add New Record`，Record Type选择TXT，Value部分粘贴刚才复制的内容，保存设置，回到Google Search Console点击Verify，成功后主页就可以被Google搜索到。  
+
+再进入[Google Search Console](https://search.google.com/search-console/)，可以看到主页的访问情况。
+
 
 
 ## 附录
