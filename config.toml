@@ -20,7 +20,7 @@ url = "https://github.com/nathanhuangzhi/"
 [[params.social]]
 icon = "rss"
 icon_pack = "fa"
-link = "/index.xml"
+url = "/index.xml"
 
 
 #[[params.social]]
