@@ -63,11 +63,12 @@ blogdown::serve_site()
 > ERROR 2021/09/17 11:33:37 instagram shortcode: Missing config value for services.instagram.accessToken. This can be set in config.toml, but it is recommended to configure this via the HUGO_SERVICES_INSTAGRAM_ACCESSTOKEN OS environment variable. If you are using a Client Access Token, remember that you must combine it with your App ID using a pipe symbol (<APPID>|<CLIENTTOKEN>) otherwise the request will fail.
 
 
-在`Files`中找到`config.toml`，加入一行`ignoreErrors = ["error-missing-instagram-accesstoken"]`保存，重新运行`blogdown::serve_site()`。
+在`Files`中找到`config.toml`，加入一行`ignoreErrors = ["error-missing-instagram-accesstoken"]`保存，重新运行`blogdown::serve_site()`。在`config.toml`中把baseURL改为自己的主页(https://quizzical-tesla-8af049.netlify.app/)。
 
 在`Tools`菜单找到`Addins`，选择`New Post`可以创作新文章。
 
 > Filename处会自动帮你填写为Title处的内容，Filename和Slug还是建议使用字母，尤其是Filename，如果博文里面不需要用到 R 语言的代码计算结果生成图表的话，Format处就选择Markdown格式，这可以省去一些系统生成的步骤，ok，点击Done，就会在/content/post文件夹下面生成一个新文件了，content 文件夹下面的文件就是博客的文章了。---------[统计之都](https://cosx.org/2018/01/build-blog-with-blogdown-hugo-netlify-github/ "统计之都")
+
 
 
 完成后通过以下步骤，将本地项目同步到Github。
@@ -111,4 +112,18 @@ S3教程来自(https://troyyang.com/2018/02/16/hosting-images-with-aws-s3/)。
 
 
 ## 设置Netlify
+
+注册登录Netlify后选择`New site from Git`，再点击Github，Brand选择Main，Build Command填写hugo，Publish directory填写public点击`Depoly Site`。
+
+在Namesilo购买个性化域名nathanhuang.xyz，回到Netlify选择`Domain Management->Domain->Add Domain`，输入域名nathanhuang.xyz。在DNS Panel处复制Netlify DNS:
+```
+dns1.p07.nsone.net
+dns2.p07.nsone.net
+dns3.p07.nsone.net
+dns4.p07.nsone.net
+```
+
+在Namesilo处选择Unlock domain，并找到在NameServers并修改成刚才复制的Netlify DNS。
+
+回到Netlify，选择enable HTTPS。
 
