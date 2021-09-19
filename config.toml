@@ -20,7 +20,7 @@ url = "https://github.com/nathanhuangzhi/"
 [[params.social]]
 icon = "rss"
 icon_pack = "fa"
-link = "http://www.pzhao.org/zh/index.xml"
+link = "https://quizzical-tesla-8af049.netlify.app/index.xml"
 
 
 #[[params.social]]
