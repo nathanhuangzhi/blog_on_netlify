@@ -63,7 +63,7 @@ blogdown::serve_site()
 > ERROR 2021/09/17 11:33:37 instagram shortcode: Missing config value for services.instagram.accessToken. This can be set in config.toml, but it is recommended to configure this via the HUGO_SERVICES_INSTAGRAM_ACCESSTOKEN OS environment variable. If you are using a Client Access Token, remember that you must combine it with your App ID using a pipe symbol (<APPID>|<CLIENTTOKEN>) otherwise the request will fail.
 
 
-在`Files`中找到`config.toml`，加入一行`ignoreErrors = ["error-missing-instagram-accesstoken"]`保存，重新运行`blogdown::serve_site()`。在`config.toml`中把baseURL改为自己的主页(https://quizzical-tesla-8af049.netlify.app/)。
+在`Files`中找到`config.toml`，加入一行`ignoreErrors = ["error-missing-instagram-accesstoken"]`保存，重新运行`blogdown::serve_site()`。在`config.toml`中把baseURL改为自己的主页(https://nathanhuang.xyz/)。
 
 在`Tools`菜单找到`Addins`，选择`New Post`可以创作新文章。
 
