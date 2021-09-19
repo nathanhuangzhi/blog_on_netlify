@@ -127,3 +127,6 @@ dns4.p07.nsone.net
 
 回到Netlify，选择enable HTTPS。
 
+## 附录
+
+自定义主题教程：(https://hugo-apero-docs.netlify.app/learn/)

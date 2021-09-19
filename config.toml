@@ -10,7 +10,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "🏓 Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
 
 [[params.social]]
 name = "GitHub"
@@ -23,6 +23,12 @@ url = "https://github.com/nathanhuangzhi/"
 icon = "rss"
 icon_pack = "fa"
 url = "/index.xml"
+
+[[params.social]]
+icon = "inbox"
+icon_pack = "fa"
+url = ""
+
 
 
 # icon can be found https://www.fontawesomecheatsheet.com/
