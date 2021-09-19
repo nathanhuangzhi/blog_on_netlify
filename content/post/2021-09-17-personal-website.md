@@ -3,7 +3,8 @@ title: 搭建个人主页(Blogdown+Netlify+Github+AWS)
 author: Nathan Huang
 date: '2021-09-17'
 slug: personal-website
-categories:
+description: 教程来自统计之都，步骤稍作修改。
+categories: 
   - R
 tags:
   - Blogdown
