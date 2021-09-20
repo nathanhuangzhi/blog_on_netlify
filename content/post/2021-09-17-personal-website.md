@@ -1,7 +1,7 @@
 ---
 title: 搭建个人主页(Blogdown+Netlify+Github+AWS)
 author: Nathan Huang
-date: '2021-09-15'
+date: '2021-09-17'
 slug: personal-website
 description: 一直想搭建一个自己的个人主页，David Perell 说过创作者需要 Own your distribution，不然只是在给各个平台的导流。之前折腾了好几次主页，但都不是很满意。这次试着记录下自己的步骤，以免日后忘记。
 categories: 

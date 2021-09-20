@@ -1,7 +1,7 @@
 ---
 title: 谈谈公开写作和记笔记
 author: Nathan Huang
-date: '2021-09-16'
+date: '2021-05-10'
 slug: writing-taking-notes
 categories: []
 description: 公开写作，相对于私密写作，指把写作的内容公开到网上。David Perell就特别推崇公开写作，他通过公开写作建立了自己的社群，教授普通人如何通过公开写作加速职业发展。他的博客油管，也都有许多关于如何公开写作的内容。

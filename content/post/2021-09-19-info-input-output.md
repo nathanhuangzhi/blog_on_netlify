@@ -1,7 +1,7 @@
 ---
 title: 保持输入，保持输出
 author: Nathan Huang
-date: '2021-09-16'
+date: '2021-04-11'
 slug: info-input-output
 categories: []
 description: 今天听了零机一动的一档播客，主要讲的是如何进行信息摄取，外加最近一年看了一些关于内容经济的文章，挺有感触，就想记录一下平时如何管理信息，以后多尝试写作。
