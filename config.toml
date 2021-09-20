@@ -9,6 +9,33 @@ googleAnalytics = "G-XDJKM1BWRZ"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 ignoreErrors = ["error-missing-instagram-accesstoken"]
+
+[languages]
+
+  [languages.zh-cn]
+    title = "个人主页"
+    weight = 1
+  
+  [[languages.zh-cn.menu.main]]
+    name = "主页"
+    url = "/"
+    weight = 1
+    
+  [[languages.zh-cn.menu.main]]
+    name = "文章"
+    url = "/post"
+    weight = 2
+  
+  [[languages.zh-cn.menu.main]]
+    name = "关于"
+    url = "/about"
+    weight = 3
+
+  [[languages.zh-cn.menu.main]]
+    name = "标签"
+    url = "/tags"
+    weight = 4
+    
 [params]
 	mode="auto"
 	useCDN=false

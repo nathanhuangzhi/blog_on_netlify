@@ -1,5 +1,5 @@
 ---
-title: 搭建个人主页(RStudio+Hugo+Netlify+Github)
+title: 通过RStudio搭建个人主页
 author: Nathan Huang
 date: '2021-09-17'
 slug: personal-website
