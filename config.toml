@@ -13,7 +13,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 [languages]
 
   [languages.zh-cn]
-    title = "个人主页"
+    title = "Nathan Huang"
     weight = 1
   
   [[languages.zh-cn.menu.main]]
