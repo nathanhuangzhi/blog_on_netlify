@@ -1,5 +1,5 @@
 ---
-title: 搭建个人主页(Blogdown+Netlify+Github+AWS)
+title: 搭建个人主页(RStudio+Netlify+Github+AWS)
 author: Nathan Huang
 date: '2021-09-17'
 slug: personal-website
@@ -100,7 +100,7 @@ git push -u origin master
 
 ## 通过Amazon AWS S3部署图床
 
-S3教程来自(https://troyyang.com/2018/02/16/hosting-images-with-aws-s3/)。
+S3教程来自(https://troyyang.com/2018/02/16/hosting-images-with-aws-s3/)。想省事的可以直接选微博图床或者Bilibili图床。
 
 通过(https://console.aws.amazon.com/console/home)创建`bucket`，名称任意（这里选择nathanhuang），在`Permission`取消`Block all public access`，上传图片在`Action`选择`make public`。此时生成的节点是http://nathanhuang.s3-website-ap-southeast-1.amazonaws.com/，国内访问不便。下面通过CloudFront自定义域名。
 
