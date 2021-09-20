@@ -146,3 +146,5 @@ dns4.p07.nsone.net
 ## 附录
 
 自定义主题教程：(https://hugo-apero-docs.netlify.app/learn/)
+
+在网站中加入Google Analytics: (http://cloudywithachanceofdevops.com/posts/2018/05/17/setting-up-google-analytics-on-hugo/)
