@@ -4,6 +4,7 @@ title = "Nathan Huang"
 theme = "archie"
 copyright = "© Nathan Huang"
 pygmentsstyle = "monokai"
+googleAnalytics = "G-XDJKM1BWRZ"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 ignoreErrors = ["error-missing-instagram-accesstoken"]
