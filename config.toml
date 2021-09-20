@@ -1,5 +1,6 @@
 baseURL = "https://nathanhuang.xyz/"
 languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
 title = "Nathan Huang"
 theme = "archie"
 copyright = "© Nathan Huang"
@@ -12,6 +13,8 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 	mode="auto"
 	useCDN=false
 	subtitle = "欢迎！我是Nathan Huang，营销学博士在读，这里主要记录我对投资，写作，数据，营销的想法。"
+  description = "欢迎！我是Nathan Huang，营销学博士在读，这里主要记录我对投资，写作，数据，营销的想法。"
+
 
 [[params.social]]
 name = "GitHub"
