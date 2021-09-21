@@ -65,15 +65,16 @@ url = ""
 # icon can be found https://www.fontawesomecheatsheet.com/
 
 
-#[[params.social]]
-#name = "Twitter"
-#icon = "twitter"
-#url = "https://github.com/athulcajay/"
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/natro9"
 
 #[[params.social]]
 #name = "GitLab"
 #icon = "gitlab"
 #url = "https://gitlab.com/athul/"
+
 [[menu.main]]
 name = "主页"
 url = "/"
