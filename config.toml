@@ -1,6 +1,6 @@
 baseURL = "https://nathanhuang.xyz/"
-languageCode = "zh-cn"
-defaultContentLanguage = "zh-cn"
+languageCode = "zh"
+defaultContentLanguage = "zh"
 title = "Nathan Huang"
 theme = "archie"
 copyright = "© Nathan Huang"
@@ -12,26 +12,26 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [languages]
 
-  [languages.zh-cn]
+  [languages.zh]
     title = "Nathan Huang"
     weight = 1
   
-  [[languages.zh-cn.menu.main]]
+  [[languages.zh.menu.main]]
     name = "主页"
     url = "/"
     weight = 1
     
-  [[languages.zh-cn.menu.main]]
+  [[languages.zh.menu.main]]
     name = "文章"
     url = "/post"
     weight = 2
   
-  [[languages.zh-cn.menu.main]]
+  [[languages.zh.menu.main]]
     name = "关于"
     url = "/about"
     weight = 3
 
-  [[languages.zh-cn.menu.main]]
+  [[languages.zh.menu.main]]
     name = "标签"
     url = "/tags"
     weight = 4
