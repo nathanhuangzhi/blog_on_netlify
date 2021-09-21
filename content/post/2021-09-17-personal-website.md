@@ -3,7 +3,7 @@ title: 通过RStudio搭建个人主页
 author: Nathan Huang
 date: '2021-09-17'
 slug: personal-website
-description: 一直想搭建一个自己的个人主页，David Perell 说过创作者需要 Own your distribution，不然只是在给各个平台的导流。之前折腾了好几次主页，但都不是很满意。这次试着记录下自己的步骤，以免日后忘记。
+description: 一直想搭建一个自己的个人主页，David Perell 说过创作者需要 Own your distribution，不然只是在给各个平台的导流。之前折腾了好几次主页，但都不是很满意。在海外交流不管是公司还是个人，有自己的主页是非常有必要的。
 categories: 
   - R
 tags:
@@ -13,7 +13,7 @@ draft: no
 
 # 搭建流程
 
-一直想搭建一个自己的个人主页，David Perell 说过创作者需要 Own your distribution，不然只是在给各个平台的导流。
+一直想搭建一个自己的个人主页，David Perell 说过创作者需要 Own your distribution，不然只是在给各个平台的导流。在海外交流不管是公司还是个人，有自己的主页是非常有必要的。
 
 之前折腾了好几次主页，但都不是很满意。这次试着记录下自己的步骤，以免日后忘记。搭建框架上常见的有 Jekyll，Hexo，Hugo 可以选，不折腾的话也可以选 WordPress，Gridea 等等。我比较熟悉R语言，可以直接调用`Blogdown`，就选了 Hugo。搭建的主要过程参考了 [统计之都](https://cosx.org/2018/01/build-blog-with-blogdown-hugo-netlify-github/ "统计之都")，步骤稍作修改。
 
@@ -139,7 +139,7 @@ dns4.p07.nsone.net
 
 输入 Domain (nathanhuang.xyz) 点击 CONTINUE，复制 TXT 部分内容，回到 Netlify，点击 `Domain Settings -> Options -> Go to DNS Panel -> Add New Record`，Record Type 选择 TXT，Value 部分粘贴刚才复制的内容，保存设置，回到 Google Search Console 点击 Verify，成功后主页就可以被 Google 搜索到。  
 
-再进入 [Google Search Console](https://search.google.com/search-console/)，可以看到主页的访问情况。
+到此网站已经搭建完毕，后续其实还有可以改进的地方，比如给网站加上 Google Analytics (国内的朋友可以搜一搜替代方案)，还给网站检测一下 SEO，针对性的修改网站。这里就不具体展开，我把一些相关链接放在附录里，可以作为参考。 
 
 
 
@@ -148,3 +148,5 @@ dns4.p07.nsone.net
 自定义主题教程：(https://hugo-apero-docs.netlify.app/learn/)
 
 在网站中加入Google Analytics: (http://cloudywithachanceofdevops.com/posts/2018/05/17/setting-up-google-analytics-on-hugo/)
+
+SEO检测：(https://www.seobility.net/en/seocheck/)
