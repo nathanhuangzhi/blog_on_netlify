@@ -139,7 +139,7 @@ dns4.p07.nsone.net
 
 输入 Domain (nathanhuang.xyz) 点击 CONTINUE，复制 TXT 部分内容，回到 Netlify，点击 `Domain Settings -> Options -> Go to DNS Panel -> Add New Record`，Record Type 选择 TXT，Value 部分粘贴刚才复制的内容，保存设置，回到 Google Search Console 点击 Verify，成功后主页就可以被 Google 搜索到。  
 
-到此网站已经搭建完毕，后续其实还有可以改进的地方，比如给网站加上 Google Analytics (国内的朋友可以搜一搜替代方案)，还给网站检测一下 SEO，针对性的修改网站。这里就不具体展开，我把一些相关链接放在附录里，可以作为参考。 
+到此网站已经搭建完毕，后续其实还有可以改进的地方，比如给网站加上 Google Analytics (国内的朋友可以搜一搜替代方案)，还可以给网站检测一下 SEO，针对性的修改网站。这里就不具体展开，我把一些相关链接放在附录里，可以作为参考。 
 
 
 
