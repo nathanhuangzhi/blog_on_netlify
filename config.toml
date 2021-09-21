@@ -58,9 +58,7 @@ url = "/index.xml"
 [[params.social]]
 icon = "inbox"
 icon_pack = "fa"
-url = ""
-
-
+url = "mailto:nathanhz2013@gmail.com"
 
 # icon can be found https://www.fontawesomecheatsheet.com/
 
