@@ -150,3 +150,5 @@ dns4.p07.nsone.net
 在网站中加入Google Analytics: (http://cloudywithachanceofdevops.com/posts/2018/05/17/setting-up-google-analytics-on-hugo/)
 
 SEO检测：(https://www.seobility.net/en/seocheck/)
+
+7000 字告诉初学者 2022 Google SEO 怎么玩: (https://sspai.com/post/68905)
