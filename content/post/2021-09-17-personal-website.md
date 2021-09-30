@@ -152,3 +152,5 @@ dns4.p07.nsone.net
 SEO检测：(https://www.seobility.net/en/seocheck/)
 
 7000 字告诉初学者 2022 Google SEO 怎么玩: (https://sspai.com/post/68905)
+
+网站测速：(https://www.boce.com/)
