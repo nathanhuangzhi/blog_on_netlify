@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "zh"
 defaultContentLanguage = "zh"
-title = "Nathan Huang"
+title = "Nathan's Lemma"
 theme = "archie"
 copyright = "© Nathan Huang"
 pygmentsstyle = "monokai"
@@ -13,7 +13,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 [languages]
 
   [languages.zh]
-    title = "Nathan Huang"
+    title = "Nathan's Lemma"
     weight = 1
   
   [[languages.zh.menu.main]]
