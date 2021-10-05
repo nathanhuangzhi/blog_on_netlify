@@ -36,6 +36,13 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
     url = "/tags"
     weight = 4
     
+#   [[languages.zh.menu.main]]
+#    name = "订阅"
+#    url = "/subscribe"
+#    weight = 5
+  
+   
+    
 [params]
 	mode="auto"
 	useCDN=false
