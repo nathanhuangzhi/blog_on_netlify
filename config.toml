@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.nathanhuang.xyz/"
 languageCode = "zh"
 defaultContentLanguage = "zh"
 title = "Nathan's Lemma"
