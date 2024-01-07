@@ -46,8 +46,8 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "欢迎！我是Nathan Huang，商学院博士，现居美国，这里主要记录我对投资，写作，数据，营销，社科的想法。"
-  description = "欢迎！我是Nathan Huang，商学院博士，现居美国，这里主要记录我对投资，写作，数据，营销，社科的想法。"
+	subtitle = "欢迎！我是Nathan Huang，商学院博士，目前在谷歌担任数据科学家，这里主要记录我对投资，写作，数据，营销，社科的想法。"
+  description = "欢迎！我是Nathan Huang，商学院博士，目前在谷歌担任数据科学家，这里主要记录我对投资，写作，数据，营销，社科的想法。"
 
 
 [[params.social]]

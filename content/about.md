@@ -9,7 +9,7 @@ description: Hugo, the world’s fastest framework for building websites
 title: About
 ---
 
-欢迎，我是Nathan Huang. 美国营销学博士，我的工作是通过数据分析研究社交媒体相关问题。
+欢迎，我是Nathan Huang. 美国营销学博士，目前在谷歌担任数据科学家。
 
 
 关于博客的内容，现阶段主要是这几方面的感想：投资，写作，数据，营销，社科。
