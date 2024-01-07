@@ -71,9 +71,9 @@ url = "mailto:nathanhz2013@gmail.com"
 
 
 [[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/natro9"
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/nathanzhihuang/"
 
 #[[params.social]]
 #name = "GitLab"
