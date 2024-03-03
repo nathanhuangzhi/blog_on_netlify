@@ -42,7 +42,7 @@ draft: yes
   - [土斯土耶夫斯基](https://space.bilibili.com/362876897/?spm_id_from=333.999.0.0)
   - [公司大起底](https://space.bilibili.com/1274077132/?spm_id_from=333.999.0.0)
   - [王不投](https://space.bilibili.com/2126383223/?spm_id_from=333.999.0.0)
-  - [饶钢的投资课](https://space.bilibili.com/1178105589/?spm_id_from=333.999.0.0)
+  - [饶钢的投资课](https://space.bilibili.com/1178105589/?spm_id_from=333.999.0.0) 
 
 - 雪球：
   - 大道无形我有型（[段永平投资问答录（商业逻辑篇）](https://book.douban.com/subject/35254511/)、[段永平投资问答录（投资逻辑篇）](https://book.douban.com/subject/35279134/)）这两本书应该算段永平的帖子的精华版。
