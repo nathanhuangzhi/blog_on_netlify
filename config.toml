@@ -1,4 +1,4 @@
-baseURL = "https://www.nathanhuang.xyz/"
+baseURL = "https://nathanhuang-xyz.vercel.app/"
 languageCode = "zh"
 defaultContentLanguage = "zh"
 title = "Nathan's Lemma"
