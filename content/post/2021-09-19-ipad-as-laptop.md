@@ -1,10 +1,10 @@
 ---
-title: iPad作为主力笔记本的一些心得
+title: iPad 作为主力笔记本的一些心得
 author: Nathan Huang
 date: '2021-07-19'
 slug: ipad-as-laptop
 categories: []
-description: 最近入手了新iPad Pro，作为主力笔记本使用了一段时间，记录分享一些心得体会。我刚开始试用的是11寸，一段时间使用下来我觉得11寸更适合作为平板，非常轻薄，和其他笔记本电脑搭配使用更合适。
+description: 最近入手了新 iPad Pro，作为主力笔记本使用了一段时间，记录分享一些心得体会。我刚开始试用的是 11 寸，一段时间使用下来我觉得 11 寸更适合作为平板，非常轻薄，和其他笔记本电脑搭配使用更合适。
 tags:
   - Apple
   - iPad

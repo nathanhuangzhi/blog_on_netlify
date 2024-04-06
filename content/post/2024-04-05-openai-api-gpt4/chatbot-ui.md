@@ -9,7 +9,7 @@ categories:
 tags:
   - AI
   - 开源项目
-description: 最近发现一个有意思的开源项目 Chatbot UI，可以直接调用 OpenAI API 创建一个类似 ChatGPT 的界面来使用 GPT4。项目还接受 Gemini，Claude，Mistral 等等市面上主流的大模型 API 接口，这里放一下自己的成果，(https://chat.nathanhuang.xyz/)。
+description: 最近发现一个有意思的开源项目 Chatbot UI，可以直接调用 OpenAI API 创建一个类似 ChatGPT 的界面来使用 GPT4。项目还接受 Gemini，Claude，Mistral 等等市面上主流的大模型 API 接口，这里放一下自己的成果。
 ---
 
 最近发现一个有意思的开源项目 [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)，可以直接调用 OpenAI API 创建一个类似 ChatGPT 的界面来使用 GPT4。项目还接受 Gemini，Claude，Mistral 等等市面上主流的大模型 API 接口，这里放一下自己的成果，[chat.nathanhuang.xyz](https://chat.nathanhuang.xyz/) 。
