@@ -129,6 +129,8 @@ dns4.p07.nsone.net
 
 回到 Netlify，选择 enable HTTPS。
 
+部署好后的页面如果无法显示主题，可以把  `config.toml` 中的 baseURL 改回原先的 Netlify 域名，成功之后再改回自己的域名。
+
 
 ## Google 收录
 
