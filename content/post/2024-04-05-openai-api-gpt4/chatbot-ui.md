@@ -1,5 +1,5 @@
 ---
-title: 通过调用OpenAI API使用GPT4
+title: 通过调用 OpenAI API 创建自己的 Chatbot
 author: Nathan Huang
 date: '2024-04-05'
 slug: []
